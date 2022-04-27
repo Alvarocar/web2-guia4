@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="web2-guia4:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web2_guia4_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="web2-guia4/ejb/EJB" />
+      <element id="javaee-facet-classes" facet="web2-guia4/ejb/EJB" />
+    </root>
+  </artifact>
+</component>
